@@ -69,3 +69,26 @@ Esta aplicação é um catálogo de produtos interativo que consome a API DummyJ
 ## 🔌 API Utilizada
 
 A aplicação consome dados da [DummyJSON](https://dummyjson.com/docs/products), uma API REST simulada que fornece dados de produtos para e-commerce.
+
+IMAGENS:
+IMAGEM PÁGINA PRINCIPAL --> ![image](https://github.com/user-attachments/assets/05873fa5-84fe-4d2c-b9c9-b549ccb351b1)
+IMAGEM DESCRIÇÃO DO PRODUTO --> ![image](https://github.com/user-attachments/assets/1b7650a2-f174-4805-b894-5fcae7f8b1bb)
+IMAGEM FILTRO E BARRA DE PESQUISA --> ![image](https://github.com/user-attachments/assets/b82914a1-f141-42e7-b216-fc63343c5a96)
+IMAGEM CATEGORIAS --> ![image](https://github.com/user-attachments/assets/e3f8c5b3-bf86-4c2c-8201-2657bcde83be)
+IMAGEM AO ADICIONAR PRODUTO NO CARRINHO: ![image](https://github.com/user-attachments/assets/91e98d20-3f54-4403-981a-8837a5299166)
+
+🚀 Como Executar o Projeto
+bash
+# 1. Navegue até a pasta raiz do projeto
+# 2. Instale as dependências
+npm install
+
+# 3. Inicie o servidor de desenvolvimento
+npm run dev
+
+LINK DO VIDEO NO YOUTUBE: https://youtu.be/-7LkIuUU-oo
+
+
+
+
+
